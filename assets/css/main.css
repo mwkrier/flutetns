@@ -2404,8 +2404,9 @@ input, select, textarea {
 		border: 0;
 		color: #fff;
 		cursor: pointer;
-		display: inline-block;
-		padding: 0 1.5em;
+		display: block;
+		padding: 5px;
+		margin: 5px;
 		line-height: 2.75em;
 		min-width: 9em;
 		text-align: center;
